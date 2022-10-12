@@ -23,4 +23,4 @@ BGM Link: [title]()
 
 ## Release
 
-[R0](../../r/r0/)
+\[Saturn\]\[JP\][R0](../../r/r0/)

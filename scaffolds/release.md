@@ -3,7 +3,7 @@ title: {{ title }}
 categories:
   - Release
 tags:
-  - PS1
+  - Saturn
   - Japanese
   - playable/ingame/loadable/crash/not-tested
   - complete/partial/trial
@@ -15,9 +15,9 @@ name: **page.title**
 VNDB Link: [title](https://vndb.org/r)
 
 ## Tag
- - Platform : PS1
+ - Platform : Saturn
  - Language : Japanese
- - Compatibility : playable
+ - Compatibility : not-tested
  - Completeness : complete
  - Patch
  - All-aged
@@ -27,6 +27,8 @@ VNDB Link: [title](https://vndb.org/r)
  - BaiduNetDisk
  -- wqwqwq#32838#x.zip
  - Internet Archive
+ -- [Direct Link]()
+ - lib.sci-adv.cc
  -- [Direct Link]()
  - BitTorrent
  -- hash123456
