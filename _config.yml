@@ -69,6 +69,10 @@ index_generator:
 default_category: uncategorized
 category_map:
 tag_map:
+tag_generator:
+  order_by: title
+category_generator:
+  order_by: title
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
@@ -97,7 +101,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -107,7 +111,8 @@ deploy:
 # Search
 ## info: https://cloud.tencent.com/developer/article/1953271 https://blog.csdn.net/qq_40265501/article/details/80030627
 search:
-    path: search.xml
-    field: post
-    format: html
-    limit: 10000
+  path: search.xml
+  field: post
+  format: html
+  content: true
+  limit: 10000
