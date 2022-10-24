@@ -3,7 +3,7 @@ title: {{ title }}
 categories:
   - Release
 tags:
-  - Saturn
+  - DreamCast
   - Japanese
   - playable/ingame/loadable/crash/not-tested
   - complete/partial/trial
@@ -11,11 +11,11 @@ tags:
 ---
 ## Basic Info
 
-name: **page.title**
+name: **title**
 VNDB Link: [title](https://vndb.org/r)
 
 ## Tag
- - Platform : Saturn
+ - Platform : DreanCast
  - Language : Japanese
  - Compatibility : not-tested
  - Completeness : complete
@@ -32,4 +32,4 @@ VNDB Link: [title](https://vndb.org/r)
  -- [Direct Link]()
  - BitTorrent
  -- hash123456
- -- nyaa.si/655
+ -- nyaa.si/view/655

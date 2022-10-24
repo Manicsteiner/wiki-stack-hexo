@@ -23,4 +23,4 @@ BGM Link: [title]()
 
 ## Release
 
-\[Saturn\]\[JP\][R0](../../r/r0/)
+\[DreamCast\]\[JP\][R0](../../r/r0/)
