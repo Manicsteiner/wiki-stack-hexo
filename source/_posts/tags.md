@@ -18,10 +18,20 @@ tags:
  - Release.platform(Windows, PS3, Xbox360, and else)
  --- 用于描述该游戏版本的平台。某些release可能会有多个平台标签，这可能是因为这个游戏使用了跨平台引擎并预留了多个可执行文件，或是官方的移植版本（PSX2PSP，PSX2PS3），但可以用旧平台的模拟器运行。
  --- [Windows](./windows)
+ --- [FC\/NES](./fc)
+ --- [SFC\/SNES](./sfc)
+ --- [NGP](./ngp)
+ --- [WonderSwan](./wonderswan)
+ --- [GameBoy](./gameboy)
+ --- [Saturn](./saturn)
  --- [PS1](./ps1)
+ --- [DreamCast](./dreamcast)
+ --- [PS2](./ps2)
+ --- [Xbox](./xbox)
  - Release.language(Chinese, Japanese, English, and else)
  --- 用于描述该游戏版本所用的语言。可以有多个。此处按VNDB的早期标准，不区分繁体中文和简体中文。有些游戏在购买页面显示多语言，但实际在下载时只能选择其中一个，此时将只标注收集版本的语言，因此将和VNDB的release页面标注有所不同。
  --- [Chinese](./chinese)
+ --- [English](./english)
  --- [Japanese](./japanese)
  - Release.compatibility(playable, ingame, loadable, crash, not-tested)
  --- 用于描述该游戏版本的运行状态。根据各个模拟器的compatibility分类简化而来。这一描述将综合个人测试结果和其他用户贡献的测试结果。
@@ -43,6 +53,9 @@ tags:
  --- [patch](./patch)
  - Release.early-version
  --- 用于描述游戏版本是否为早期版本。
+ - Release.homebrew
+ --- 用于描述“民间移植”的游戏。
+ --- [Homebrew](./homebrew)
  - Release.all-aged
  --- 使用此tag表示该游戏有着“有年龄限制的”版本，而此游戏版本不包含此类内容。
  --- [all-aged](./all-aged)
