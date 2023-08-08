@@ -3,7 +3,7 @@ title: {{ title }}
 categories:
   - Release
 tags:
-  - DreamCast
+  - PS2
   - Japanese
   - playable/ingame/loadable/crash/not-tested
   - complete/partial/trial
@@ -15,7 +15,7 @@ name: **title**
 VNDB Link: [title](https://vndb.org/r)
 
 ## Tag
- - Platform : DreanCast
+ - Platform : PS2
  - Language : Japanese
  - Compatibility : not-tested
  - Completeness : complete
@@ -23,7 +23,7 @@ VNDB Link: [title](https://vndb.org/r)
  - All-aged
 
 ## Download Links
-### BIN/CUE
+### ISO
  - BaiduNetDisk
  -- wqwqwq#32838#x.zip
  - Internet Archive

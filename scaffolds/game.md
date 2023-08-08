@@ -23,4 +23,4 @@ BGM Link: [title]()
 
 ## Release
 
-\[DreamCast\]\[JP\][R0](../../r/r0/)
+\[PS2\]\[JP\][R0](../../r/r0/)
